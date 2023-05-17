@@ -1,0 +1,179 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/50/5c/86/505c86078071cfa05794264907521db9.jpg);
+    margin: 10px;
+    color: white;
+}
+
+#title {
+    position: relative;
+    left: 30%;
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    font-weight: bold;
+    margin: 10px;
+    width: 700px;
+    color:#ff0000!important;
+    text-shadow: 1px 0 1px rgb(255, 255, 255), 
+    0 1px 1px rgb(255, 255, 255), 
+    -1px 0 1px rgb(255, 255, 255), 
+    0 -1px 1px rgb(255, 255, 255);
+}
+
+#PS {
+    color: black;
+    position: relative;
+    left: 31%;
+    width: 700px;
+    text-align: center;
+    background-color: rgb(165, 255, 255);
+}
+
+.image_main img {
+    width: 700px;
+    align-content: center;
+    margin: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 10px solid rgb(141, 140, 140);
+}
+
+.text-under-page {
+    text-shadow: 1px 0 1px rgb(255, 255, 255);
+    color: red;
+    font-size: 30px;
+    text-align: center; 
+}
+
+.reg {
+    position: fixed;
+    left: 80%;
+    top: 5%;
+    width: 150px;
+    color: aliceblue;
+}
+
+.gray {
+    background-color: rgb(229, 229, 229);
+    border-radius: 7px;
+}
+
+.music {
+    margin: 30px;
+    font-size: 20px;
+    position: absolute;
+    bottom: 33%;
+}
+
+.war {
+    color: white;
+}
+
+.sod {
+    color: white;
+}
+
+.tornado {
+    color: white;
+}
+
+.album {
+    position: absolute;
+    bottom: 630px;
+    margin-left: 30px;
+    width: fit-content;
+    border: 5px solid white;
+}
+
+.album1 {
+    position: absolute;
+    bottom: 5px;
+    margin-left: 30px;
+    border: 5px solid white;
+    width: fit-content;
+}
+
+.menu {
+    margin-top: 100px;
+    margin-left: 30px;
+    background-color: white;
+    width: 180px;
+    padding: 5px;
+    border: 30px solid rgb(232, 232, 232);
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: white;
+    background-color: rgb(114, 114, 114);
+    padding: 3px;
+}
+
+.meme {
+    position: absolute;
+    top: 1000px;
+    margin-left: 36%;
+}
+
+.facts {
+    font-family: sans-serif;
+    margin: 100px;
+    margin-left: 350px;
+    font-size: 25px;
+    border: 5px solid white;
+    width: 1100px;
+}
+
+.facts p {
+    text-align: center;
+    margin-left: 330px;
+    font-size: 35px;
+    border: 5px solid white;
+    width: fit-content;
+    border-radius: 17px;
+    padding: 10px;
+}
+
+.otziv {
+    font-size: 30px;
+    text-align: center;
+}
+
+.cel {
+    font-family: sans-serif;
+    width: fit-content;
+}
+
+.ot {
+    display: inline-block;
+    padding-left: 350px;
+}
+
+.oz_text {
+    font-family: sans-serif;
+    width: fit-content;
+}
+
+.me {
+    background-color: white;
+    padding: 10px;
+    width: fit-content;
+}
+
+.end {
+    padding: 30px;
+    margin: 30px;
+}
